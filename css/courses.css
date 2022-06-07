@@ -1,0 +1,19 @@
+.footer_socials li a:hover{
+
+    background: var(--color-light);
+    border-radius: 5rem;
+
+}
+
+ .courses{
+     margin-top: 1rem;
+ }
+
+.course {
+    border-radius: 3rem;
+    margin-top: 1rem;
+}
+
+.course img{
+    border-radius: 3rem 3rem 0 0;
+}
